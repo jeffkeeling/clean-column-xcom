@@ -1,6 +1,7 @@
 [data-testid='sidebarColumn'] {
   visibility: hidden;
 }
+
 .no-twitter-trends {
   position: absolute;
   top: 5px;
@@ -14,4 +15,11 @@
   border: 2px solid white;
   box-shadow: none;
   text-align: center;
+}
+
+/* Styles for the copied search form */
+[role='search'] {
+  width: 100%;
+  max-width: 350px;
+  margin-bottom: 16px;
 }

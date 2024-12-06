@@ -1,9 +1,7 @@
 window.onload = () => {
   let sidebarColumn = null
-
   let button = null
   let clickEventListener = null
-
   const showText = 'Show Trends Sidebar'
   const hideText = 'Hide Trends Sidebar'
 
@@ -14,7 +12,9 @@ window.onload = () => {
     button.style.position = 'absolute'
     button.style.right = '0'
     sidebarColumn.after(button)
+
     clickEventListener = () => {
+      console.log('sidebarColumn.style', sidebarColumn.style)
       if (sidebarColumn.style.visibility === 'hidden') {
         sidebarColumn.style.visibility = 'visible'
         button.textContent = hideText
