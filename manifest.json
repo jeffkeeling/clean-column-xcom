@@ -1,0 +1,17 @@
+{
+  "name": "No Twitter Trends",
+  "description": "Removes Twitter trends from sidebar",
+  "version": "1",
+  "manifest_version": 3,
+  "icons": {
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://x.com/*"],
+      "js": ["contentScript.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}

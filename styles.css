@@ -1,0 +1,17 @@
+[data-testid='sidebarColumn'] {
+  visibility: hidden;
+}
+.no-twitter-trends {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  padding: 5px 10px;
+  background-color: #1da1f2;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: system-ui;
+  border: 2px solid white;
+  box-shadow: none;
+  text-align: center;
+}
