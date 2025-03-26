@@ -1,0 +1,9 @@
+[aria-label='Trending'] > div > div > div:not(:first-child),
+[aria-label='Trending'] [aria-label='Who to follow'],
+[aria-label='Trending'] section {
+  visibility: hidden;
+}
+
+[aria-label='Timeline: Explore'] {
+  visibility: hidden;
+}
