@@ -11,13 +11,13 @@ This also blocks that content on the /explore page which is what a user sees whe
 <br />
 
 <a href="https://addons.mozilla.org/en-US/firefox/addon/clean-column-x-com/" target="_blank">
-	<img src="https://github.com/jeffkeeling/clean-column-xcom/blob/main/webstores/firefox.png?raw=true" width="172" height="60">
+	<img src="https://github.com/jeffkeeling/clean-column-xcom/blob/master/webstores/firefox.png?raw=true" width="172" height="60">
 </a>
 
 <br />
 
 <a href="https://chromewebstore.google.com/detail/clean-column-xcom/fojabfpgnkapinmokcekgcfomnegegpe?authuser=0&hl=en" target="_blank">
-	<img src="https://github.com/jeffkeeling/clean-column-xcom/blob/main/webstores/chrome.png?raw=true" width="206" height="58">
+	<img src="https://github.com/jeffkeeling/clean-column-xcom/blob/master/webstores/chrome.png?raw=true" width="206" height="58">
 </a>
 
 <br />
